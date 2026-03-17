@@ -78,7 +78,7 @@ Se utiliza un `while True` para permitir que el usuario interactúe con el siste
 
 ---
 
-## jecución
+## Ejecución
 El programa inicia con:
 
 ```python
